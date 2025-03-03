@@ -145,7 +145,7 @@
   "Overview": "개요",
   "Only warnings ({{ numWarnings }})": "경고만 표시 ({{ numWarnings }})",
   "Type": "유형",
-  "Reason": "Reason",
+  "Reason": "사유",
   "Last Seen": "마지막으로 본 시간",
   "Offline": "오프라인",
   "Lost connection to the cluster.": "클러스터와의 연결이 끊어졌습니다.",
