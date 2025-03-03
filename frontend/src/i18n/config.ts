@@ -6,8 +6,8 @@ import sharedConfig from './i18nextSharedConfig.mjs';
 const en = {}; // To keep TS happy.
 
 export const supportedLanguages: { [langCode: string]: string } = {
-  en: 'English',
   ko: 'Korean',
+  en: 'English',
   es: 'Español',
   fr: 'Français',
   pt: 'Português',
