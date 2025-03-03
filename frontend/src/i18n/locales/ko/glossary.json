@@ -181,7 +181,7 @@
   "Configuration": "설정",
   "HPAs": "HPAs",
   "VPAs": "VPAs",
-  "Pod Disruption Budgets": "파드 중단 정책",
+  "Pod Disruption Budgets": "파드 중단 버짓",
   "Limit Ranges": "제한 범위",
   "Priority Classes": "우선순위 클래스",
   "Runtime Classes": "런타임 클래스",
