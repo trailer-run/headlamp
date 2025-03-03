@@ -7,6 +7,7 @@ const en = {}; // To keep TS happy.
 
 export const supportedLanguages: { [langCode: string]: string } = {
   en: 'English',
+  ko: 'Korean',
   es: 'Español',
   fr: 'Français',
   pt: 'Português',
@@ -42,7 +43,7 @@ i18next
     debug: import.meta.env.DEV && !import.meta.env.UNDER_TEST,
     ns: ['translation', 'glossary'],
     defaultNS: 'translation',
-    fallbackLng: 'en',
+    fallbackLng: 'ko',
     contextSeparator: sharedConfig.contextSeparator,
     supportedLngs: Object.keys(supportedLanguages),
     // nonExplicitSupportedLngs: true,
